@@ -1,0 +1,11 @@
+Сидорова Вера Альбертовна
+Email: evdokimovvladilen@example.org
+Телефон: 8 331 416 75 55
+
+Опыт работы:
+2022–2024 — Backend Developer, ФК Пульс
+• Работа с tensorflow, sql, deep learning
+• Опыт анализа данных и автоматизации
+
+Навыки: tensorflow, sql, deep learning, pandas, docker, go, sklearn
+Образование: ОАО «Корнилов, Матвеева и Козлова» Университет, Прикладная информатика

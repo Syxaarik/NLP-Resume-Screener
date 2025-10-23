@@ -1,0 +1,11 @@
+Суханов Святополк Богданович
+Email: sergeevaverjan@example.com
+Телефон: 82755842999
+
+Опыт работы:
+2018–2024 — ML Engineer, ООО «Казакова»
+• Работа с deep learning, pytorch, rust
+• Опыт анализа данных и автоматизации
+
+Навыки: deep learning, pytorch, rust, javascript, xgboost, python, pandas, powerbi, fastapi, sql
+Образование: ОАО «Капустин-Гуляев» Университет, Прикладная информатика

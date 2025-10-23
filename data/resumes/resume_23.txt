@@ -1,0 +1,11 @@
+Миронов Никита Жанович
+Email: polikarp1984@example.com
+Телефон: 8 (601) 976-28-54
+
+Опыт работы:
+2019–2024 — Backend Developer, Европа
+• Работа с fastapi, deep learning, excel
+• Опыт анализа данных и автоматизации
+
+Навыки: fastapi, deep learning, excel, sklearn, pytorch, pandas, machine learning, sql, docker
+Образование: Никитин Инк Университет, Прикладная информатика

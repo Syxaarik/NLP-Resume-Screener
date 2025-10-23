@@ -1,0 +1,11 @@
+Савватий Валерианович Шилов
+Email: lavr_1986@example.net
+Телефон: 8 (842) 983-2847
+
+Опыт работы:
+2018–2024 — Backend Developer, НМЖК
+• Работа с sklearn, rust, tensorflow
+• Опыт анализа данных и автоматизации
+
+Навыки: sklearn, rust, tensorflow, c++, sql, javascript, go, python, git, deep learning
+Образование: ОАО «Андреева, Сорокина и Горбунов» Университет, Прикладная информатика

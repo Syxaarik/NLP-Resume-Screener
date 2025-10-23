@@ -1,0 +1,11 @@
+Наина Юрьевна Алексеева
+Email: antipkomissarov@example.net
+Телефон: 8 (459) 362-46-82
+
+Опыт работы:
+2017–2024 — Python Developer, Петролеум Трейдинг
+• Работа с fastapi, numpy, pandas
+• Опыт анализа данных и автоматизации
+
+Навыки: fastapi, numpy, pandas, linux, pytorch, go, java, python, docker, tableau
+Образование: ОАО «Андреева, Капустина и Семенова» Университет, Прикладная информатика

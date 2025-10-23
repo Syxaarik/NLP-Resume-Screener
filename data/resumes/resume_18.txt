@@ -1,0 +1,11 @@
+Ираида Георгиевна Тимофеева
+Email: sitnikovvisheslav@example.net
+Телефон: +7 (991) 713-18-42
+
+Опыт работы:
+2021–2024 — Backend Developer, НПО «Орехов Никитин»
+• Работа с numpy, powerbi, java
+• Опыт анализа данных и автоматизации
+
+Навыки: numpy, powerbi, java, sklearn, tensorflow, sql, c++, fastapi, deep learning
+Образование: МУМТ (BAT) Университет, Прикладная информатика

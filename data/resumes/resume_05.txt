@@ -1,0 +1,11 @@
+Сидоров Ефим Ануфриевич
+Email: belovaolimpiada@example.net
+Телефон: 8 (020) 076-80-49
+
+Опыт работы:
+2020–2024 — Python Developer, ЗАО «Овчинникова»
+• Работа с pytorch, go, fastapi
+• Опыт анализа данных и автоматизации
+
+Навыки: pytorch, go, fastapi, c++, python, xgboost, pandas, tensorflow, numpy
+Образование: ООО «Мухина, Куликова и Ершов» Университет, Прикладная информатика

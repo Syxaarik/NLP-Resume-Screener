@@ -1,0 +1,11 @@
+Давыдова Алла Павловна
+Email: karl_1997@example.net
+Телефон: 8 600 913 17 37
+
+Опыт работы:
+2021–2024 — Python Developer, ООО «Хохлов, Аксенова и Князева»
+• Работа с pytorch, java, sql
+• Опыт анализа данных и автоматизации
+
+Навыки: pytorch, java, sql, machine learning, python, c++, docker, sklearn, fastapi
+Образование: ИП «Лаврентьев» Университет, Прикладная информатика

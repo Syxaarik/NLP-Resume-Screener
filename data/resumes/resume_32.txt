@@ -1,0 +1,11 @@
+Панкратий Гертрудович Сидоров
+Email: evpraksija_98@example.net
+Телефон: +7 622 294 52 50
+
+Опыт работы:
+2021–2024 — Backend Developer, Исаков Лимитед
+• Работа с deep learning, pandas, linux
+• Опыт анализа данных и автоматизации
+
+Навыки: deep learning, pandas, linux, git, fastapi, rust, pytorch, excel
+Образование: НПО «Степанова Соловьева» Университет, Прикладная информатика

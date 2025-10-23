@@ -1,0 +1,11 @@
+Александров Ладислав Феофанович
+Email: german60@example.org
+Телефон: 8 (346) 488-52-55
+
+Опыт работы:
+2019–2024 — Backend Developer, РАО «Карпова»
+• Работа с docker, deep learning, c++
+• Опыт анализа данных и автоматизации
+
+Навыки: docker, deep learning, c++, pytorch, tensorflow, excel, tableau, pandas
+Образование: РАО «Миронова» Университет, Прикладная информатика

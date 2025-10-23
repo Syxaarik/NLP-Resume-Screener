@@ -1,0 +1,11 @@
+Крюков Самуил Эдуардович
+Email: konongorbunov@example.com
+Телефон: 8 328 117 6740
+
+Опыт работы:
+2021–2024 — Backend Developer, ОАО «Григорьева-Лапин»
+• Работа с machine learning, go, java
+• Опыт анализа данных и автоматизации
+
+Навыки: machine learning, go, java, linux, sklearn, numpy
+Образование: НПО «Александров Николаев» Университет, Прикладная информатика

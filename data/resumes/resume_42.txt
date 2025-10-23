@@ -1,0 +1,11 @@
+Демьян Анисимович Михайлов
+Email: matveevavalentina@example.com
+Телефон: +7 856 836 65 82
+
+Опыт работы:
+2019–2024 — Data Analyst, ЗАО «Савельев»
+• Работа с tensorflow, sql, rust
+• Опыт анализа данных и автоматизации
+
+Навыки: tensorflow, sql, rust, excel, pandas, fastapi
+Образование: Группа Газфонд Университет, Прикладная информатика

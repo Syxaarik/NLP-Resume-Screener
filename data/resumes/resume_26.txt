@@ -1,0 +1,11 @@
+Агап Витальевич Киселев
+Email: osipovaevpraksija@example.com
+Телефон: 89423498392
+
+Опыт работы:
+2021–2024 — Data Analyst, Сидорова и партнеры
+• Работа с tensorflow, tableau, machine learning
+• Опыт анализа данных и автоматизации
+
+Навыки: tensorflow, tableau, machine learning, java, linux
+Образование: ИП «Колесникова-Фадеева» Университет, Прикладная информатика

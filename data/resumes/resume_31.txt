@@ -1,0 +1,11 @@
+Всеволод Захарьевич Бобылев
+Email: jfrolov@example.com
+Телефон: +7 (937) 562-19-79
+
+Опыт работы:
+2020–2024 — Backend Developer, АО «Самсонов, Архипов и Галкин»
+• Работа с git, numpy, machine learning
+• Опыт анализа данных и автоматизации
+
+Навыки: git, numpy, machine learning, java, deep learning, xgboost, docker, javascript, powerbi, pandas
+Образование: СДС-Уголь Университет, Прикладная информатика

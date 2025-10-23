@@ -1,0 +1,11 @@
+Ксения Рудольфовна Субботина
+Email: demidzatsev@example.net
+Телефон: 8 (754) 829-2193
+
+Опыт работы:
+2021–2024 — Backend Developer, Emex
+• Работа с python, docker, rust
+• Опыт анализа данных и автоматизации
+
+Навыки: python, docker, rust, fastapi, deep learning, xgboost, powerbi, tableau
+Образование: РАО «Воробьева-Овчинников» Университет, Прикладная информатика

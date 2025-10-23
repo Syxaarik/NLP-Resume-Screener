@@ -1,0 +1,11 @@
+Белоусов Богдан Васильевич
+Email: rodionsokolov@example.com
+Телефон: 8 882 044 09 86
+
+Опыт работы:
+2020–2024 — Backend Developer, Порше Руссланд (Porsche)
+• Работа с sklearn, machine learning, excel
+• Опыт анализа данных и автоматизации
+
+Навыки: sklearn, machine learning, excel, rust, go
+Образование: Л'Ореаль (L'Oreal) Университет, Прикладная информатика

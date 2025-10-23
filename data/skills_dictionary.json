@@ -1,0 +1,6 @@
+{
+  "programming": ["python", "c++", "java", "javascript", "go", "rust"],
+  "data_analysis": ["sql", "excel", "pandas", "numpy", "tableau", "powerbi"],
+  "ml": ["machine learning", "deep learning", "tensorflow", "pytorch", "sklearn", "xgboost"],
+  "tools": ["docker", "git", "fastapi", "linux"]
+}

@@ -1,0 +1,11 @@
+Анастасия Геннадиевна Куликова
+Email: seliverst_86@example.com
+Телефон: 86859594633
+
+Опыт работы:
+2020–2024 — Python Developer, ЗАО «Некрасов»
+• Работа с fastapi, deep learning, c++
+• Опыт анализа данных и автоматизации
+
+Навыки: fastapi, deep learning, c++, xgboost, javascript, rust, powerbi, go
+Образование: ООО «Селиверстова-Константинов» Университет, Прикладная информатика

@@ -1,0 +1,11 @@
+Федорова Лукия Богдановна
+Email: dobroslavbogdanov@example.com
+Телефон: +7 289 131 40 25
+
+Опыт работы:
+2019–2024 — Python Developer, НПО «Ершова»
+• Работа с docker, xgboost, go
+• Опыт анализа данных и автоматизации
+
+Навыки: docker, xgboost, go, c++, pytorch, sklearn, powerbi, excel
+Образование: ИП «Одинцов, Лебедев и Тарасова» Университет, Прикладная информатика

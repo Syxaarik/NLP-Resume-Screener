@@ -1,0 +1,11 @@
+Феврония Максимовна Белозерова
+Email: sinklitikija22@example.com
+Телефон: +7 (927) 483-84-04
+
+Опыт работы:
+2021–2024 — Backend Developer, Авиакомпания ЮТэйр
+• Работа с machine learning, tableau, xgboost
+• Опыт анализа данных и автоматизации
+
+Навыки: machine learning, tableau, xgboost, pytorch, c++, linux, sql, go, git
+Образование: М Фэшн Университет, Прикладная информатика

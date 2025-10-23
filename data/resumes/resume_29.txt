@@ -1,0 +1,11 @@
+Лариса Станиславовна Юдина
+Email: adrian_25@example.org
+Телефон: 8 (253) 543-82-63
+
+Опыт работы:
+2021–2024 — Data Analyst, Логинова Групп
+• Работа с xgboost, machine learning, pytorch
+• Опыт анализа данных и автоматизации
+
+Навыки: xgboost, machine learning, pytorch, powerbi, sql, go, tableau, deep learning
+Образование: ЗАО «Кошелев» Университет, Прикладная информатика

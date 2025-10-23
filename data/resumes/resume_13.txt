@@ -1,0 +1,11 @@
+Анна Макаровна Селезнева
+Email: mitofan_02@example.org
+Телефон: +75721832513
+
+Опыт работы:
+2021–2024 — Python Developer, Лента
+• Работа с fastapi, powerbi, tableau
+• Опыт анализа данных и автоматизации
+
+Навыки: fastapi, powerbi, tableau, machine learning, sql, deep learning, pandas
+Образование: Автотор холдинг Университет, Прикладная информатика

@@ -1,0 +1,11 @@
+Мамонтов Любим Иосифович
+Email: sobolevmina@example.org
+Телефон: 8 (825) 415-40-18
+
+Опыт работы:
+2021–2024 — Data Analyst, ПТК
+• Работа с numpy, xgboost, java
+• Опыт анализа данных и автоматизации
+
+Навыки: numpy, xgboost, java, go, javascript, excel, sql, c++, pytorch, fastapi
+Образование: Мосинжпроект Университет, Прикладная информатика

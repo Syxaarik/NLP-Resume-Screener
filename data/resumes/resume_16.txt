@@ -1,0 +1,11 @@
+Якуб Юльевич Бобылев
+Email: erastsitnikov@example.org
+Телефон: +7 198 473 3509
+
+Опыт работы:
+2019–2024 — ML Engineer, АО «Сысоев-Чернов»
+• Работа с deep learning, pytorch, machine learning
+• Опыт анализа данных и автоматизации
+
+Навыки: deep learning, pytorch, machine learning, tableau, javascript, tensorflow, excel, powerbi
+Образование: ОАО «Евдокимова-Шилова» Университет, Прикладная информатика

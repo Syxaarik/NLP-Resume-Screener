@@ -1,0 +1,11 @@
+Вишняков Яков Васильевич
+Email: bogdangalkin@example.org
+Телефон: +70353100544
+
+Опыт работы:
+2022–2024 — Backend Developer, РАО «Сидорова, Красильников и Алексеева»
+• Работа с tableau, powerbi, machine learning
+• Опыт анализа данных и автоматизации
+
+Навыки: tableau, powerbi, machine learning, git, excel, docker, rust
+Образование: НПО «Матвеев» Университет, Прикладная информатика

@@ -1,0 +1,11 @@
+Горбунов Венедикт Бенедиктович
+Email: nifont1972@example.org
+Телефон: 8 979 359 3023
+
+Опыт работы:
+2021–2024 — Backend Developer, АО «Петрова, Егоров и Зимина»
+• Работа с pandas, machine learning, sql
+• Опыт анализа данных и автоматизации
+
+Навыки: pandas, machine learning, sql, sklearn, xgboost, tensorflow, python, linux
+Образование: ЗАО «Кулакова, Крюкова и Мартынов» Университет, Прикладная информатика

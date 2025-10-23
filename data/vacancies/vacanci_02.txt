@@ -1,0 +1,15 @@
+Развёртывание open-source моделей (DeepSeek, LLaMA, Qwen, Mistral, Gemma, Stable Diffusion и др.) на серверном оборудовании компании.
+Проектирование архитектуры развёртывания: выбор дистрибутива Linux → настройка движков инференса (vLLM, SGLang, llama-cpp, TensorRT-LLM и т. п.).
+Подбор HW-конфигурации под модели: GPU, CPU, память, накопители.
+Интеграция RAG-систем (LangChain, LlamaIndex, RAGFlow, GraphRAG, Agentic RAG и др.).
+Настройка пайплайнов и квантизации (FP16, FP8, INT4, Q4_K_M и т. п.), базовые параметры инференса и fine-tuning.
+Подготовка и дообучение моделей (LoRA, QLoRA, PEFT); работа с форматами весов (safetensors, GGUF, bin, pt).
+Работа с backend/фреймворками: PyTorch, TensorFlow, ONNX Runtime.
+При необходимости — автоматизация рутинных задач на Python (скрипты, пайплайны, API-обвязки).
+Требования (обязательные)
+Практический опыт развёртывания или сопровождения open-source LLM (DeepSeek, LLaMA, Mistral, Qwen и др.).
+Понимание архитектуры трансформеров и диффузионных сетей.
+Уверенное владение Linux (Ubuntu/Debian или RHEL-подобные).
+Знание основ Docker, виртуальных окружений (venv/conda), систем версии (git).
+Базовые навыки Python (автоматизация, API, bash-скрипты).
+Желательно: понимание RAG-архитектур и инструментов (LangChain, LlamaIndex, RAGFlow).

@@ -1,0 +1,11 @@
+Прасковья Богдановна Николаева
+Email: kondrati1999@example.net
+Телефон: 83875321655
+
+Опыт работы:
+2017–2024 — Backend Developer, ИП «Аксенов-Елисеев»
+• Работа с sklearn, javascript, tensorflow
+• Опыт анализа данных и автоматизации
+
+Навыки: sklearn, javascript, tensorflow, python, git, c++, machine learning, powerbi
+Образование: НПО «Зуев Ширяев» Университет, Прикладная информатика

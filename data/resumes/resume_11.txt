@@ -1,0 +1,11 @@
+Аркадий Устинович Дроздов
+Email: tovchinnikova@example.net
+Телефон: 8 923 955 29 22
+
+Опыт работы:
+2019–2024 — Backend Developer, Субботин Групп
+• Работа с go, deep learning, python
+• Опыт анализа данных и автоматизации
+
+Навыки: go, deep learning, python, docker, javascript
+Образование: Жуков Инк Университет, Прикладная информатика

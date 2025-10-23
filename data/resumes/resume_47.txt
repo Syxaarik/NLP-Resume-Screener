@@ -1,0 +1,11 @@
+Карл Иосифович Сидоров
+Email: seliverst1983@example.org
+Телефон: 85085391470
+
+Опыт работы:
+2017–2024 — Backend Developer, Дон-Строй Инвест
+• Работа с excel, linux, docker
+• Опыт анализа данных и автоматизации
+
+Навыки: excel, linux, docker, java, xgboost, tensorflow, numpy, python, sklearn
+Образование: ОАО «Матвеева Шарова» Университет, Прикладная информатика

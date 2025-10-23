@@ -1,0 +1,11 @@
+Беспалова Светлана Валентиновна
+Email: porfiri_27@example.net
+Телефон: +7 910 470 5701
+
+Опыт работы:
+2020–2024 — ML Engineer, ОАО «Шашков»
+• Работа с pandas, javascript, java
+• Опыт анализа данных и автоматизации
+
+Навыки: pandas, javascript, java, fastapi, sql, pytorch, powerbi, go, python, machine learning
+Образование: ОАО «Муравьева, Нестерова и Ефремова» Университет, Прикладная информатика
