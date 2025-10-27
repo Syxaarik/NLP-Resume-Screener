@@ -1,14 +1,8 @@
 import os
-import docx
-from app.clean_text import cleaner_text
-from PyPDF2 import PdfReader
+import docx # txt = D:\\Python project\\Project\\DataScinse\\Banword\\data\\resumes\\resume_01.txt
+from app.clean_text import cleaner_text # pdf = D:\Python project\Project\DataScinse\Banword\app\test.pdf
+from PyPDF2 import PdfReader # docx = D:\Python project\Project\DataScinse\Banword\app\test.docx
 from PyPDF2.errors import PdfReadError
-
-text_path = input(
-    "Enter the path:")  # txt = D:\\Python project\\Project\\DataScinse\\Banword\\data\\resumes\\resume_01.txt
-filename, file_extension = os.path.splitext(
-    text_path)  # pdf = D:\Python project\Project\DataScinse\Banword\app\test.pdf
-print(file_extension)  # docx = D:\Python project\Project\DataScinse\Banword\app\test.docx
 
 
 def extract_pdf_text(path):
@@ -30,23 +24,18 @@ def extract_docx_text(path):
     return '\n'.join(full_text)
 
 
-if file_extension == ".pdf":
-    print("Текст до обработки:")
-    print(extract_pdf_text(text_path))
-    print("Текст после обработки:")
-    cleaner_text(extract_pdf_text(text_path))
+def file_proc(file_path):
+    filename, extension = os.path.splitext(file_path)
+    print(extension)
 
-elif file_extension == ".txt":
-    print("Текст до обработки:")
-    print(extract_txt_text(text_path))
-    print("Текст после обработки:")
-    cleaner_text(extract_txt_text(text_path))
 
-elif file_extension == ".docx":
-    print("Текст до обработки:")
-    print(extract_docx_text(text_path))
-    print("Текст после обработки:")
-    cleaner_text(extract_docx_text(text_path))
+    if extension == ".pdf":
+        cleaner_text(extract_pdf_text(file_path))
 
-else:
-    raise PdfReadError("File extension not supported")
+    elif extension == ".txt":
+        cleaner_text(extract_txt_text(file_path))
+
+    elif extension == ".docx":
+        cleaner_text(extract_docx_text(file_path))
+    else:
+        raise PdfReadError("File extension not supported")
