@@ -1,7 +1,7 @@
 import os
-import docx # txt = D:\\Python project\\Project\\DataScinse\\Banword\\data\\resumes\\resume_01.txt
-from src.clean_text import cleaner_text # pdf = D:\Python project\Project\DataScinse\Banword\src\test.pdf
-from PyPDF2 import PdfReader # docx = D:\Python project\Project\DataScinse\Banword\src\test.docx
+import docx  # txt = D:\\Python project\\Project\\DataScinse\\Banword\\data\\resumes\\resume_01.txt
+from src.clean_text import cleaner_text  # pdf = D:\Python project\Project\DataScinse\Banword\src\test.pdf
+from PyPDF2 import PdfReader  # docx = D:\Python project\Project\DataScinse\Banword\src\test.docx
 from PyPDF2.errors import PdfReadError
 
 
@@ -26,8 +26,6 @@ def extract_docx_text(path):
 
 def file_proc(file_path):
     filename, extension = os.path.splitext(file_path)
-    print(extension)
-
 
     if extension == ".pdf":
         cleaner_text(extract_pdf_text(file_path))
